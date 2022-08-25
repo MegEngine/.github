@@ -1,11 +1,11 @@
 
-MegEngine is a fast, scalable, and user friendly deep learning framework with 3 key features: 
+**MegEngine is a fast, scalable, and user friendly deep learning framework with 3 key features:** 
 
 + Unified framework for both training and inference.
 + The lowest hardware requirements.
 + Inference efficiently on all platforms.
 
-Team goals：
+### Team goals：
 
 + Shorten the distance between scientific research and landing delivery.
 + For the next ResNet-level innovation, continue to explore with all algorithm researchers.
